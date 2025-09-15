@@ -26,11 +26,19 @@
                                 <p class="bi bi-envelope"> SMKN4@gmail.com</p>
                                 <h2>Media Sosial</h2>
                                 <hr>
-                                <div class="d-flex gap-3">
-                                    <a href="#"><i class="bi bi-facebook"></i></a>
-                                    <a href="#"><i class="bi bi-instagram"></i></a>
-                                    <a href="#"><i class="bi bi-tiktok"></i><a>
-                                    <a href="#"><i class="bi bi-youtube"></i></a>                                    
+                                <div class="d-flex gap-3 fs-5">
+                                    <a href="https://facebook.com" target="_blank" class="text-white">
+                                    <i class="bi bi-facebook"></i>
+                                    </a>
+                                    <a href="https://instagram.com" target="_blank" class="text-white">
+                                    <i class="bi bi-instagram"></i>
+                                    </a>
+                                    <a href="https://tiktok.com" target="_blank" class="text-white">
+                                    <i class="bi bi-tiktok"></i>
+                                    </a>
+                                    <a href="https://youtube.com" target="_blank" class="text-white">
+                                    <i class="bi bi-youtube"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
