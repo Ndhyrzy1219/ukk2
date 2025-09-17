@@ -78,7 +78,7 @@
                                 </div>
                                 <div class="card-body">
                                     <h4>SMKN 4 Tasikmalaya Koneksikan Iduka dengan Pencari Kerja</h4>
-                                    <a class="btn btn-primary" href="#">Baca Selengkapnya </a>
+                                    <a class="btn btn-primary" href="https://radartasik.id/2023/10/12/smkn-4-tasikmalaya-koneksikan-iduka-dengan-pencari-kerja/">Baca Selengkapnya </a>
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                                 <div class="card-body">
                                     <h4>PT DAM Jalin Kerjasama dengan SMKN 4 Tasikmalaya Terapkan Kurikulum Teknik dan
                                         Bisnis Sepeda Motor Honda</h4>
-                                    <a class="btn btn-primary" href="#">Baca Selengkapnya </a>
+                                    <a class="btn btn-primary" href="https://radartasik.disway.id/read/643944/pt-dam-jalin-kerjasama-dengan-smkn-4-tasikmalaya-terapkan-kurikulum-teknik-dan-bisnis-sepeda-motor-honda">Baca Selengkapnya </a>
                                 </div>
                             </div>
                         </div>
@@ -111,10 +111,10 @@
                     <div class="card border-0">
                         <?php 
                         $glri =[
-                           'galeri/hut1.JPG',
-                           'galeri/mbg.JPG',
-                           'galeri/mbg6.JPG',
-                           'galeri/mbg4.JPG',
+                           "galeri/hut1.JPG",
+                           "galeri/mbg.JPG",
+                           "galeri/mbg6.JPG",
+                           "galeri/mbg4.JPG",
 
                         ];
                         $i = 0;

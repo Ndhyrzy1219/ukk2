@@ -10,7 +10,7 @@
 </head>
 
 <body>
-<?php include 'layout.php'; ?>
+<?php include 'header.php'; ?>
     <!-- TUTUP NAV -->
 
      <!-- SECTION VISI MISI -->

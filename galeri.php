@@ -45,12 +45,12 @@
                     </div>
                     <?php 
                         $hut =[
-                           'galeri/hut1.JPG',
-                           'galeri/hut2.JPG',
-                           'galeri/hut3.JPG',
-                           'galeri/hut4.JPG',
-                           'galeri/hut5.JPG',
-                           'galeri/hut6.JPG'
+                           "galeri/hut1.JPG",
+                           "galeri/hut2.JPG",
+                           "galeri/hut3.JPG",
+                           "galeri/hut4.JPG",
+                           "galeri/hut5.JPG",
+                           "galeri/hut6.JPG"
 
                         ];
                         $i = 0;
@@ -82,25 +82,24 @@
                     </div>
                     <?php 
                         $mpls =[
-                           'galeri/mpls1.jpg',
-                           'galeri/mpls2.jpg',
-                           'galeri/mpls3.jpg',
-                           'galeri/mpls4.jpg',
-                           'galeri/mpls5.jpg',
-                           'galeri/mpls6.jpg'
+                           "galeri/mpls1.jpg",
+                           "galeri/mpls2.jpg",
+                           "galeri/mpls3.jpg",
+                           "galeri/mpls4.jpg",
+                           "galeri/mpls5.jpg",
+                           "galeri/mpls6.jpg"
 
                         ];
-                        $i = 0;
+                       
                     ?>
                     <div class="row m-2">
-                        <?php while ($i < count($mpls)): ?>
+                        <?php foreach ($mpls as $gambar): ?>
                         <div class="col-lg-4 mt-2">
                             <div class="card">
-                                <img src="<?=$mpls[$i]?>" class="img-fluid" alt="">
+                                <img src="<?= $gambar ?>" class="img-fluid" alt="">
                             </div>
                         </div>
-                        <?php $i++; ?>
-                        <?php endwhile; ?>
+                        <?php endforeach; ?>
                     </div>
                     </div>
                     <!-- Tutup galeri 2 -->
@@ -119,12 +118,12 @@
                     </div>
                     <?php 
                         $mbg =[
-                           'galeri/mbg1.jpg',
-                           'galeri/mbg2.jpg',
-                           'galeri/mbg3.jpg',
-                           'galeri/mbg4.jpg',
-                           'galeri/mbg5.jpg',
-                           'galeri/mbg6.jpg'
+                           "galeri/mbg1.jpg",
+                           "galeri/mbg2.jpg",
+                           "galeri/mbg3.jpg",
+                           "galeri/mbg4.jpg",
+                           "galeri/mbg5.jpg",
+                           "galeri/mbg6.jpg"
 
                         ];
                         $i = 0;

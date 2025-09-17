@@ -24,7 +24,7 @@
                 ["img" => "galeri/pks.png", "nama" => "PKS"],
             ];
 
-            $i = 0; 
+            
             ?>
 
     <!-- SECTION ESKUL -->
@@ -36,17 +36,16 @@
                         <h3 class="mb-0">Ekstrakurrikuler</h3>
                         <h3 class="text-primary ">Siswa</h3>
                         <div class="row">
-                            <?php while ($i < count($eskul)): ?>
+                            <?php foreach ($eskul as $item): ?>
                         <div class="col-lg-4">
                             <div class="card shadow rounded m-3 p-4 d-flex align-items-center">
-                                <img src="<?= $eskul[$i]['img']?>" alt="" width="150" height="150">
+                                <img src="<?= $item ['img']?>" alt="" width="150" height="150">
                                 <div class="card-body text-center border-0">
-                                    <h4><?= $eskul[$i]['nama'] ?></h4>
+                                    <h4><?= $item ['nama'] ?></h4>
                                 </div>
                             </div>
-                        </div>
-                        <?php $i++; // naikin index ?>
-                        <?php endwhile; ?>
+                        </div> 
+                        <?php endforeach; ?>
                         </div>
                     </div>
                 </div>
