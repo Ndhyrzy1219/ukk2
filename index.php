@@ -18,7 +18,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                     <img src="galeri/fotoguru.jpg" alt="" class="img-fluid" width="1500">
+                     <img src="galeri/fguru.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
