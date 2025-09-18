@@ -15,12 +15,8 @@
 
     <!-- section awal -->
      <section>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12">
-                     <img src="galeri/fguru.png" alt="" class="img-fluid">
-                </div>
-            </div>
+        <div class="container-fluid p-0">
+             <img src="galeri/fguru.png" alt="" class="img-fluid">
         </div>
      </section>
     <!-- Tutup section awal -->
