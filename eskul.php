@@ -33,8 +33,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="card border-0">
-                        <h3 class="mb-0">Ekstrakurrikuler</h3>
-                        <h3 class="text-primary ">Siswa</h3>
+                        <h3 class="mb-3 text-center">Ekstrakurikuler Siswa</h3>
                         <div class="row">
                             <?php foreach ($eskul as $item): ?>
                         <div class="col-lg-4">

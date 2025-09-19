@@ -31,7 +31,7 @@
                     <div class="row mt-4">
                         <div class="col-lg-12 shadow rounded">
                             <div class="card mx-5 border-0">
-                                <h3>MISI</h3>
+                                <h3 class="text-center">MISI</h3>
                                    <p>1. Menyiapkan Sumber Daya Manusia yang cerdas dan kompeten baik hardskill maupun softskill.</p>
                                    <p>2. Meningkatkan dan mengembangkan aktifitas serta kreatifitas seluruh warga sekolah dalam berbagai kegiatan positif.</p>
                                    <p>3. Mewujudkan manajemen pengelolaan yang efektif, efesien, transparan, akuntabel dan layanan prima.</p> 
